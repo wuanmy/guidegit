@@ -1,0 +1,20 @@
+
+body{
+    margin:auto;
+}
+ul,li{
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color:black
+}
+
+a:hover{
+    font-size:1.2rem;
+    color:blue;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.15);
+}

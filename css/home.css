@@ -1,0 +1,18 @@
+#navigation{
+  text-align:left;
+  background-color:rgb(222, 199, 243);
+  width: 500px;
+  margin: auto;
+
+}
+#content{
+  display:flex;
+  background-color:blueviolet;
+}
+
+#navigation-1{
+  text-align:left;
+  background-color:white;
+  width: 500px;
+  margin: auto;
+}
